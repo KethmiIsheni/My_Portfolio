@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Dinuka's Portfolio",
+  title: "Kethmi's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Dinuka Rathnayake Portfolio",
+    title: "Kethmi Isheni Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,16 +19,16 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Dinuka Rathnayake",
-  logo_name: "DinukaRathnayake",
+  title: "Kethmi Isheni",
+  logo_name: "KethmiIsheni",
   nickname: "",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/drive/folders/1huHtsQQ1sJdwKPoRayhcxOr942B55lft?usp=drive_link",
+    "https://drive.google.com/drive/u/0/folders/1psPQTcg343luMwsiGyhckUtSoftFBiB7",
   portfolio_repository:
     "https://github.com/Dinuka-Rathnayake/Dinuka-Rathnayake.github.io",
-  githubProfile: "https://github.com/Dinuka-Rathnayake",
+  githubProfile: "https://github.com/KethmiIsheni",
 };
 
 const socialMediaLinks = [
@@ -43,13 +43,13 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/Dinuka-Rathnayake",
+    link: "https://github.com/KethmiIsheni",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/dinuka-rathnayaka-996623215",
+    link: "https://www.linkedin.com/in/kethmi-isheni-469652216",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -61,7 +61,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:dinukarathnayaka2000@gmail.com",
+    link: "mailto:kethmi200072isheni@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -399,8 +399,8 @@ const degrees = {
 const alevel = {
   alevel: [
     {
-      title: "St.Aloysius' College Galle",
-      subtitle: "Physcial Science Stream",
+      title: "Ch.Ananda National College",
+      subtitle: "Bio Science Stream",
       logo_path: "sliit-logoo.png",
       alt_name: "SLIIT",
       duration: "2021 - present",
@@ -741,7 +741,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_dinuka.png",
+    profile_image_path: "pic_kethmi.jpg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with php, Java, React, Android, Python and Opensource Development.",
   },
